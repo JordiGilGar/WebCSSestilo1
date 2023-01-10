@@ -1,0 +1,76 @@
+body {
+	background-color: #111;
+	color: #a7a;
+	font-family: Calibri, Verdana, Arial;
+	font-size: 18px;
+}
+
+:link {
+	color: #5af;
+}
+
+:visited {
+	color: #57d;
+}
+
+strong {
+	text-shadow: 2px 2px #333;
+}
+
+blockquote {
+	border-width: 2px;
+	border-style: dotted;
+	border-color: #909;
+	padding-left: 2em;
+	font-style: italic;
+}
+
+dt {
+	color: #cac;
+}
+
+table {
+	border-width: 6px;
+	border-style: inset;
+	border-color: #909;
+	color: #cac;
+}
+
+caption {
+	font-size: 24px;
+	font-style: italic;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+tr {
+	background-color: #222;
+}
+
+td {
+	text-align: center;
+}
+
+h1, h2, h3, h4 {
+	color: #dbd;
+}
+
+select, input {
+	margin-top: 1em;
+	margin-down: 1em;
+}
+
+.divMain {
+	border-width: 6px;
+	border-style: inset;
+	border-color: #909;
+	padding-left: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 1em;
+	background-color: #222;
+}
+
+#mainTitle {
+	font-size: 200%;
+}
